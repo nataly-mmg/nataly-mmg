@@ -1,32 +1,100 @@
-👩‍💻 Sobre mí
+# 👩‍💻 Nataly Martínez Gallardo  
 
-Soy Ingeniera Naval y cofundadora de Grupo Océanos, una oficina de ingeniería ubicada en Puerto Montt, Chile, especializada en asesoría técnica para el sector marítimo.
+🚢 Ingeniera Naval | 📊 Project Manager | 💻 Python & Django Developer  
+🌊 Transformando la ingeniería naval mediante desarrollo de software y automatización  
 
-En paralelo a mi trabajo en ingeniería, he estado incorporando herramientas tecnológicas a mis procesos, desarrollando habilidades en Python, Django, bases de datos y automatización, con un enfoque práctico orientado a resolver necesidades reales de la industria naval.
+📍 Puerto Montt, Chile  
 
-Este proceso de aprendizaje ha estado directamente vinculado a proyectos concretos, donde he aplicado programación para optimizar flujos de trabajo, estructurar información técnica y desarrollar soluciones digitales adaptadas a mi rubro.
+---
 
-⚙️ Enfoque actual
+## 🧭 Sobre mí
 
-Mi trabajo se sitúa en la intersección entre la ingeniería naval tradicional y el desarrollo tecnológico, buscando modernizar procesos que históricamente han sido manuales o poco eficientes.
+Ingeniera Naval con más de 10 años de experiencia en gestión de proyectos, normativa marítima y desarrollo técnico en la industria naviera.
 
-He desarrollado proyectos como:
+Actualmente enfocada en el desarrollo de soluciones digitales utilizando **Python, Django y bases de datos**, aplicando tecnología para resolver problemas reales del sector marítimo.
 
-Sistemas de gestión interna (intranet) para proyectos navales usando Django
-Automatización de generación de documentos técnicos
-Estructuración de bases de datos para control de embarcaciones y trabajos
-Exploración de herramientas de IA aplicadas a ingeniería
-🧠 Tecnologías y herramientas
-Python
-Django
-SQL (modelamiento y consultas)
-HTML / CSS (nivel básico aplicado a templates)
-Git y GitHub
-Automatización de procesos (n8n, integración de servicios)
-🚀 Objetivo
+Me especializo en conectar procesos de ingeniería con desarrollo de software, creando herramientas que mejoran la eficiencia, trazabilidad y gestión de la información técnica.
 
-Mi objetivo es desarrollar soluciones digitales que aporten valor real al sector marítimo, mejorando la eficiencia, trazabilidad y acceso a la información técnica, especialmente en contextos donde aún existe una baja digitalización.
+---
 
-📫 Contacto
-🌐 https://www.grupo-oceanos.cl
-📍 Puerto Montt, Chile
+## ⚙️ Enfoque actual
+
+- Digitalización de procesos en ingeniería naval  
+- Desarrollo de sistemas internos de gestión  
+- Automatización de documentación técnica  
+- Estructuración de bases de datos  
+- Exploración de inteligencia artificial aplicada a ingeniería  
+
+---
+
+## 🚀 Proyectos destacados
+
+### 🧩 Intranet – Gestión de Proyectos Navales
+Plataforma web desarrollada en Django para gestión interna.
+
+**Funciones principales:**
+- Gestión de naves, clientes y proyectos  
+- Control de accesos por tipo de usuario  
+- Base de datos relacional  
+- Mejora en la trazabilidad de la información  
+
+---
+
+### 🤖 Charlie – Plataforma de Gestión Documental
+Plataforma orientada a la automatización de documentos técnicos.
+
+**Rol: Project Lead**
+
+- Definición de requerimientos funcionales  
+- Traducción de procesos navales a soluciones digitales  
+- Diseño de experiencia de usuario (UX/UI)  
+- Estructuración de flujos de trabajo  
+- Coordinación estratégica del proyecto  
+
+---
+
+## 🛠️ Tecnologías
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-Automatización-orange?style=for-the-badge)
+
+---
+
+## 🎓 Formación
+
+### 🧠 Desarrollo de Aplicaciones Fullstack Python Trainee
+- Desarrollo backend con Python y Django  
+- Bases de datos relacionales (SQL)  
+- Desarrollo de aplicaciones web completas  
+- Integración frontend-backend  
+
+### 🌊 AI for Oceans – Code.org
+- Fundamentos de inteligencia artificial  
+- Clasificación de datos y modelos  
+- Aplicación de IA en contextos ambientales  
+
+---
+
+## 🎯 Objetivo profesional
+
+Desarrollar soluciones digitales que aporten valor real al sector marítimo, mejorando la eficiencia, trazabilidad y acceso a la información técnica.
+
+Especial interés en la **digitalización de procesos de ingeniería** mediante desarrollo de software y automatización.
+
+---
+
+## 📫 Contacto
+
+🌐 https://www.grupo-oceanos.cl  
+🔗 LinkedIn: https://www.linkedin.com/in/natalymartinezgallardo/  
+💻 GitHub: https://github.com/nataly-mmg  
+📧 nmartinez@grupo-oceanos.cl  
+
+---
+
+⭐ *Conectando ingeniería naval y tecnología para desarrollar soluciones más eficientes.*
