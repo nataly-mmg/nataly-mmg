@@ -40,9 +40,11 @@ Plataforma web desarrollada en Django para gestión interna.
 
 #### 🎥 Video demostración
 
-[![Ver video](https://img.youtube.com/vi/TU_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=TU_VIDEO_ID)
+<a href="https://www.youtube.com/watch?v=g9hOQoTOV70">
+  <img src="https://img.youtube.com/vi/g9hOQoTOV70/0.jpg" width="400">
+</a>
 
-Demostración del sistema de intranet desarrollado para la gestión de proyectos navales.
+<p>Demostración del sistema de intranet desarrollado para la gestión de proyectos navales.</p>
 
 ---
 
