@@ -38,6 +38,12 @@ Plataforma web desarrollada en Django para gestión interna.
 - Base de datos relacional  
 - Mejora en la trazabilidad de la información  
 
+#### 🎥 Video demostración
+
+[![Ver video](https://img.youtube.com/vi/TU_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=TU_VIDEO_ID)
+
+Demostración del sistema de intranet desarrollado para la gestión de proyectos navales.
+
 ---
 
 ### 🤖 Charlie – Plataforma de Gestión Documental
